@@ -78,14 +78,32 @@
 <h2 align="center"> ~ 📇 About Me 📇 ~ </h2>
 
 <p align="center">
-Hi 👋, I'm <strong>Candra Tri Kuncoro</strong>  
-🚀 A passionate <strong>Mobile & Web Developer</strong>  
-💻 Specialized in <strong>PHP, Laravel, CodeIgniter, MySQL</strong>, and <strong>Android Studio</strong>  
-<br><br>
-🌱 Always learning and improving skills  
-🤝 Open to collaborations and exciting projects  
-☕ Fun fact: I code better while sipping coffee at midnight  
+  Hi 👋, I'm <strong>Candra Tri Kuncoro</strong>  
+  🚀 A passionate <strong>Mobile & Web Developer</strong>  
 </p>
+
+---
+
+### 👨‍💻 Who Am I?
+- 💻 I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
+- 🌱 Currently improving my skills in modern frameworks and mobile app development
+- 🤝 Open to collaborations, freelance projects, and exciting tech challenges
+- ☕ Fun fact: I code best while sipping coffee at midnight
+
+---
+
+### 🧰 What I Do
+- 🏗️ Build **web applications** with clean code and efficient workflows  
+- 📱 Develop **mobile apps** with modern UI/UX  
+- 🗄️ Manage **databases** and backend systems  
+- 🔧 Explore tools like **Git & GitHub** for version control  
+
+---
+
+<p align="center">
+✨ Always curious, always learning, and always building something new ✨
+</p>
+
 
 ---
 
