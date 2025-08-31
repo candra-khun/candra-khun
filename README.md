@@ -144,7 +144,21 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=candra-khun&count_private=true&theme=neon&show_icons=true&hide_border=false">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=candra-khun&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=candra-khun&theme=2077">
+
+  <!-- Stats Card -->
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=candra-khun&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" 
+       alt="GitHub Stats" />
+
+  <!-- Streak Card -->
+  <img width="49%" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=candra-khun&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" 
+       alt="GitHub Streak" />
+
+  <!-- Profile Summary Card -->
+  <img width="100%" 
+       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=candra-khun&theme=tokyonight" 
+       alt="GitHub Profile Summary" />
+
 </div>
+
