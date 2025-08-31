@@ -75,43 +75,49 @@
 
 <br>
 
-<h2 align="center"> ~ 📇 About Me 📇 ~</h2>
-<img src="https://raw.githubusercontent.com/candra-khun/candra-khun/main/img/dev.png" alt="Candra Image" width="100%">
+<h2 align="center"> ~ 📇 About Me 📇 ~ </h2>
 
 <p align="center">
-Hi, I'm <strong>Candra Tri Kuncoro</strong>, a passionate <strong>Mobile & Web Developer</strong> with expertise in <strong>PHP, Laravel, CodeIgniter, MySQL</strong>, and <strong>Android Studio</strong>.  
-I love building applications that are modern, scalable, and impactful 🚀.
+Hi 👋, I'm <strong>Candra Tri Kuncoro</strong>  
+🚀 A passionate <strong>Mobile & Web Developer</strong>  
+💻 Specialized in <strong>PHP, Laravel, CodeIgniter, MySQL</strong>, and <strong>Android Studio</strong>  
+<br><br>
+🌱 Always learning and improving skills  
+🤝 Open to collaborations and exciting projects  
+☕ Fun fact: I code better while sipping coffee at midnight  
 </p>
 
 ---
 
-<h2 align="center"> ~ 💠 My Projects 🌐 ~ </h2>
+<h2 align="center"> ~ 💠 My Projects 💠 ~ </h2>
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <!-- Project 1 -->
-    <td align="center" width="33%">
+    <td width="33%" align="center">
       <a href="https://github.com/candra-khun/Toko-Hidup">
-        <img src="https://raw.githubusercontent.com/candra-khun/candra-khun/main/img/toko-hidup.png" width="80%" />
+        <h3>📱 Toko Hidup</h3>
       </a>
-      <br><b>Mobile Toko Hidup</b>
-    </td>
-    <!-- Project 2 -->
-    <td align="center" width="33%">
+      <p><i>E-commerce mobile app for bag sales with cart & checkout system</i></p>
+    </td> 
+    <td width="33%" align="center">
       <a href="https://github.com/candra-khun/Batik-Nusantara">
-        <img src="https://raw.githubusercontent.com/candra-khun/candra-khun/main/img/batik.png" width="80%" />
+        <h3>🎨 Batik Nusantara</h3>
       </a>
-      <br><b>Mobile Batik Nusantara</b>
+      <p><i>Mobile app to promote Indonesian batik with modern UI</i></p>
     </td>
-    <!-- Project 3 -->
-    <td align="center" width="33%">
+    <td width="33%" align="center">
       <a href="https://github.com/candra-khun/Koperasi">
-        <img src="https://raw.githubusercontent.com/candra-khun/candra-khun/main/img/koperasi.png" width="80%" />
+        <h3>🌐 Koperasi Web</h3>
       </a>
-      <br><b>Web Koperasi</b>
+      <p><i>Cooperative management web platform with transaction dashboard</i></p>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
