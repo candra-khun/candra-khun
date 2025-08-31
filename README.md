@@ -1,10 +1,55 @@
-<!-- Profil GitHub interaktif dengan animasi -->
-<!-- Ganti USERNAME, NAMA, JOB_TITLE, dan link sesuai punyamu -->
+<!-- Ganti USERNAME dengan username GitHub kamu -->
+<!-- Simpan file ini sebagai README.md di repo USERNAME/USERNAME -->
 
-<h1 align="center">👋 Hi, saya <b>NAMA</b></h1>
+<h1 align="center">👋 Hi, saya <b>Candra</b></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+GitHub+saya!;Mobile+%2B+Web+Developer;Menguasai+Android%2C+PHP%2C+CI%2C+Laravel;Mari+Kolaborasi+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧑‍💻 Tentang Saya
+- 🔭 Fokus pada: **Mobile Apps & Web Development**  
+- 🌱 Sedang belajar: **Laravel Advanced & Android Architecture**  
+- 🚀 Target 2025: Publish aplikasi ke **Play Store** dan kembangkan **Web Koperasi modern**  
+- ⚡ Fun fact: Ngopi ☕ sambil ngoding malam hari bikin ide lancar ✨  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,codeigniter,laravel,mysql,androidstudio&theme=light" />
+</p>
+
+---
+
+## 🌟 Project Unggulan
+### 📱 [Mobile Toko Hidup](https://github.com/USERNAME/toko-hidup)
+Aplikasi Android untuk toko tas dengan fitur cart, rekomendasi produk, dan checkout.  
+
+### 🎨 [Mobile Batik Nusantara](https://github.com/USERNAME/batik-nusantara)
+Aplikasi Android yang mengenalkan dan menjual batik khas Indonesia dengan UI modern.  
+
+### 🌐 [Web Koperasi](https://github.com/USERNAME/web-koperasi)
+Platform web koperasi dengan fitur simpan pinjam, riwayat transaksi, dan dashboard interaktif.  
+
+---
+
+## 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+GitHub+saya!;Saya+adalah+JOB_TITLE;Saya+suka+ngoding+Mobile+%2B+Backend;Mari+Kolaborasi+🚀" alt="Typing SVG" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Animasi Kontribusi
+<p align="center">
+  <img src="https://github.com/USERNAME/USERNAME/blob/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -19,59 +64,7 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya
-- 🔭 Sedang fokus pada: **Android Development & Backend API**  
-- 🌱 Belajar: **Kotlin, Next.js, & DevOps**  
-- 🎯 Target 2025: Rilis aplikasi sendiri di Play Store  
-- ⚡ Fun fact: saya suka ☕ + ngoding malam hari  
-
----
-
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,php,laravel,js,react,nodejs,mysql,androidstudio,figma&perline=5" />
-</p>
-
----
-
-## 🌟 Project Unggulan
-- 📱 [Project Mobile](https://github.com/USERNAME/project-mobile) – Aplikasi Android modern  
-- 🔗 [Project Backend](https://github.com/USERNAME/project-api) – REST API dengan Laravel  
-- 🛒 [Project E-Commerce](https://github.com/USERNAME/project-store) – Web store dengan Next.js  
-
----
-
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## 🌀 Animasi Seru
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
----
-
-## ✨ Sekarang
-💡 Sedang mengerjakan: **Aplikasi koperasi modern**  
-📌 Next Goal: belajar **CI/CD & Cloud Deployment**  
-🤝 Ayo kolaborasi kalau kamu punya project seru!  
-
----
-
-<h3 align="center">Terima kasih sudah mampir 🙏</h3>
+<h3 align="center">✨ Terima kasih sudah mampir ke profil saya ✨</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </p>
