@@ -1,48 +1,40 @@
-# Hi there 👋, I'm Candra Tri Kuncoro  
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate developer from [Your Country]</h3>
 
-💻 Full Stack Developer | 📱 Mobile Enthusiast | 🌐 Web Explorer  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 
----
+- 🔭 I’m currently working on **[Your Project Name]**
 
-## 🚀 About Me  
-- 🔭 Currently working on **exciting web & mobile projects**  
-- 🌱 Learning **Next.js, Flutter & Cloud Services**  
-- 💡 Love exploring new technologies & turning ideas into reality  
-- 🎯 Goal: Build impactful apps that solve real-world problems  
-- ⚡ Fun fact: I enjoy coffee ☕ and late-night coding 🌙  
+- 🌱 I’m currently learning **[Technology or Framework]**
 
----
+- 👯 I’m looking to collaborate on **[Open Source or Freelance Projects]**
 
-## 🛠️ Tech Stack  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+- 🤝 I’m looking for help with **[Something you're exploring]**
 
----
+- 💬 Ask me about **Java, Swift, GitHub, macOS**
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+- 📫 How to reach me **your.email@example.com**
 
----
+- ⚡ Fun fact **I love building cute and functional UIs**
 
-## 📂 Featured Projects  
-- 🛒 [E-Commerce App](https://github.com/USERNAME/ecommerce-app)  
-- 💳 [Cooperative Savings System](https://github.com/USERNAME/simpanan-koperasi)  
-- 🌐 [Company Website](https://github.com/USERNAME/company-profile)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/yourinstagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yourinstagram" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/USERNAME)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
 
----
-⭐️ From candra(https://github.com/candra-khun)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" /></p>
