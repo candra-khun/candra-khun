@@ -77,13 +77,6 @@
 
 <h2 align="center"> ~ 📇 About Me 📇 ~ </h2>
 
-<p align="center">
-  Hi 👋, I'm <strong>Candra Tri Kuncoro</strong>  
-  🚀 A passionate <strong>Mobile & Web Developer</strong>  
-</p>
-
----
-
 ### 👨‍💻 Who Am I?
 - 💻 I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
 - 🌱 Currently improving my skills in modern frameworks and mobile app development
