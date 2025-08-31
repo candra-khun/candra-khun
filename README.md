@@ -29,6 +29,31 @@
 
 <br>
 
+<h2 align="center"> ~ 📇 About Me 📇 ~ </h2>
+
+### 👨‍💻 Who Am I?
+- 💻 I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
+- 🌱 Currently improving my skills in modern frameworks and mobile app development
+- 🤝 Open to collaborations, freelance projects, and exciting tech challenges
+- ☕ Fun fact: I code best while sipping coffee at midnight
+
+---
+
+### 🧰 What I Do
+- 🏗️ Build **web applications** with clean code and efficient workflows  
+- 📱 Develop **mobile apps** with modern UI/UX  
+- 🗄️ Manage **databases** and backend systems  
+- 🔧 Explore tools like **Git & GitHub** for version control  
+
+---
+
+<p align="center">
+✨ Always curious, always learning, and always building something new ✨
+</p>
+
+
+---
+
 ## ⚙️ Languages and Tools:
 > Tools and technologies that I use
 
@@ -75,31 +100,6 @@
 
 <br>
 
-<h2 align="center"> ~ 📇 About Me 📇 ~ </h2>
-
-### 👨‍💻 Who Am I?
-- 💻 I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
-- 🌱 Currently improving my skills in modern frameworks and mobile app development
-- 🤝 Open to collaborations, freelance projects, and exciting tech challenges
-- ☕ Fun fact: I code best while sipping coffee at midnight
-
----
-
-### 🧰 What I Do
-- 🏗️ Build **web applications** with clean code and efficient workflows  
-- 📱 Develop **mobile apps** with modern UI/UX  
-- 🗄️ Manage **databases** and backend systems  
-- 🔧 Explore tools like **Git & GitHub** for version control  
-
----
-
-<p align="center">
-✨ Always curious, always learning, and always building something new ✨
-</p>
-
-
----
-
 <h2 align="center"> ~ 💠 My Projects 💠 ~ </h2>
 
 <div align="center">
@@ -132,16 +132,6 @@
 
 ---
 
-<h2 align="center"> ~ 🐍 Contributions Snake 🎮 ~ </h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/candra-khun/candra-khun/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" />
-  <img alt="github contribution snake animation" src="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" />
-</picture>
-
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
@@ -161,4 +151,18 @@
        alt="GitHub Profile Summary" />
 
 </div>
+
+---
+
+<h2 align="center"> ~ 🐍 Contributions Snake 🎮 ~ </h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/candra-khun/candra-khun/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" />
+  <img alt="github contribution snake animation" src="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" />
+</picture>
+
+
+
+
+
 
