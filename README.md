@@ -1,7 +1,7 @@
 <!-- Ganti USERNAME dengan username GitHub kamu -->
 <!-- Simpan file ini sebagai README.md di repo USERNAME/USERNAME -->
 
-<h1 align="center">👋 Hi, saya <b>Candra</b></h1>
+<h1 align="center">👋 Hi, saya <b>Candra Tri Kuncoro</b></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+GitHub+saya!;Mobile+%2B+Web+Developer;Menguasai+Android%2C+PHP%2C+CI%2C+Laravel;Mari+Kolaborasi+🚀" alt="Typing SVG" />
 </p>
