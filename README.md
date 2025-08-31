@@ -24,13 +24,13 @@
 ---
 
 ## 🌟 Project Unggulan
-### 📱 [Mobile Toko Hidup](https://github.com/USERNAME/toko-hidup)
+### 📱 [Mobile Toko Hidup](https://github.com/candra-khun/Toko-Hidup)
 Aplikasi Android untuk toko tas dengan fitur cart, rekomendasi produk, dan checkout.  
 
-### 🎨 [Mobile Batik Nusantara](https://github.com/USERNAME/batik-nusantara)
+### 🎨 [Mobile Batik Nusantara](https://github.com/candra-khun/Batik-Nusantara)
 Aplikasi Android yang mengenalkan dan menjual batik khas Indonesia dengan UI modern.  
 
-### 🌐 [Web Koperasi](https://github.com/USERNAME/web-koperasi)
+### 🌐 [Web Koperasi](https://github.com/candra-khun/Koperasi)
 Platform web koperasi dengan fitur simpan pinjam, riwayat transaksi, dan dashboard interaktif.  
 
 ---
@@ -49,17 +49,16 @@ Platform web koperasi dengan fitur simpan pinjam, riwayat transaksi, dan dashboa
 
 ## 🐍 Animasi Kontribusi
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🌐 Sosial Media
 <p align="center">
-  <a href="https://www.tiktok.com/@yhon.dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/candra-tri-kuncoro-634a2b2a7/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:candratrikuncoro3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
