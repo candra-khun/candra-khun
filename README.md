@@ -10,7 +10,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💱;Hi+I'm+Candra+Tri+Kuncoro+💻;Mobile+%26+Web+Developer;Laravel+%7C+CI+%7C+Android+Studio+%7C+MySQL" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💱;Hi+I'm+Candra+Tri+Kuncoro+💻;Mobile+%26+Web+Developer;Laravel+%7C+CI+%7C+MySQL" 
        alt="Welcome to my profile, I'm Candra Tri Kuncoro, Mobile & Web Developer">
 </p>
 
