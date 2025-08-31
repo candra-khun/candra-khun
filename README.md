@@ -49,7 +49,8 @@ Platform web koperasi dengan fitur simpan pinjam, riwayat transaksi, dan dashboa
 
 ## 🐍 Animasi Kontribusi
 <p align="center">
-  <img src="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" alt="snake animation"/>
+<img src="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" alt="snake animation"/>
+
 
 </p>
 
