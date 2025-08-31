@@ -47,7 +47,7 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=codeigniter" height="40" alt="CodeIgniter Icon" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="40" alt="CodeIgniter Icon" />
       <br>CodeIgniter
     </td>
     <td align="center" width="96">
