@@ -10,8 +10,7 @@
 
 ## 🧑‍💻 Tentang Saya
 - 🔭 Fokus pada: **Mobile Apps & Web Development**  
-- 🌱 Sedang belajar: **Laravel Advanced & Android Architecture**  
-- 🚀 Target 2025: Publish aplikasi ke **Play Store** dan kembangkan **Web Koperasi modern**  
+- 🌱 Sedang belajar: **Next JS & Flutter**  
 - ⚡ Fun fact: Ngopi ☕ sambil ngoding malam hari bikin ide lancar ✨  
 
 ---
