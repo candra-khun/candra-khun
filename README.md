@@ -1,87 +1,77 @@
-<!--
-README ini didesain untuk tampilan profil GitHub.
-Ganti: NAMA, JOB_TITLE, SHORT_DESC, lokasi, gambar, dan link sesuai profilmu.
--->
+<!-- Profil GitHub interaktif dengan animasi -->
+<!-- Ganti USERNAME, NAMA, JOB_TITLE, dan link sesuai punyamu -->
 
-<h1 align="center">Hi 👋, saya <b>Candra Tri Kuncoro</b></h1>
-<p align="center">
-  <i>JOB_TITLE • Passionate about building clean & modern apps • Open to collaboration</i>
-</p>
+<h1 align="center">👋 Hi, saya <b>NAMA</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D9488&width=650&lines=Hello!+Welcome+to+my+GitHub.;I+build+Android+apps,+Web+APIs,+and+automation+tools.;Let's+build+something+cool+together!" alt="typing">
-</p>
-
-<p align="center">
-  <a href="https://www.tiktok.com/@yhon.dev" target="_blank" rel="noopener">🎵 TikTok</a> ·
-  <a href="https://www.instagram.com/" target="_blank" rel="noopener">📸 Instagram</a> ·
-  <a href="https://www.linkedin.com/" target="_blank" rel="noopener">💼 LinkedIn</a> ·
-  <a href="mailto:email@domain.com">✉️ Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+GitHub+saya!;Saya+adalah+JOB_TITLE;Saya+suka+ngoding+Mobile+%2B+Backend;Mari+Kolaborasi+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## Tentang saya
-- 🔭 Saat ini: <b>JOB_TITLE</b>
-- 🌱 Sedang belajar: Advanced Kotlin & Modern Android Architecture
-- 👯 Terbuka untuk: kolaborasi proyek mobile & backend
-- 💬 Tanya tentang: Android, PHP (Laravel/CodeIgniter), Next.js, REST API
-- ⚡ Hobi: ngulik UI/UX, bikin mini tools, ngopi
-
----
-
-## 🔧 Tech stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
+## 🌐 Sosial Media
+<p align="center">
+  <a href="https://www.tiktok.com/@yhon.dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚒️ Project unggulan
-### [Nama Project 1](https://github.com/username/project-1)  
-Ringkasan singkat — fitur utama, tech stack, dan link demo (jika ada).
+## 🧑‍💻 Tentang Saya
+- 🔭 Sedang fokus pada: **Android Development & Backend API**  
+- 🌱 Belajar: **Kotlin, Next.js, & DevOps**  
+- 🎯 Target 2025: Rilis aplikasi sendiri di Play Store  
+- ⚡ Fun fact: saya suka ☕ + ngoding malam hari  
 
-### [Nama Project 2](https://github.com/username/project-2)  
-Ringkasan singkat — kenapa project ini menarik, dan apa kontribusimu.
+---
 
-### [Nama Project 3](https://github.com/username/project-3)  
-Ringkasan singkat — tugas utama, hasil, dan teknologi.
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,php,laravel,js,react,nodejs,mysql,androidstudio,figma&perline=5" />
+</p>
 
-> Tips: jadikan 3 project yang menunjukkan variasi (mobile, backend API, tooling/script). Sertakan badge `⭐` atau GIF kecil di repo README tiap project untuk menarik perhatian.
+---
+
+## 🌟 Project Unggulan
+- 📱 [Project Mobile](https://github.com/USERNAME/project-mobile) – Aplikasi Android modern  
+- 🔗 [Project Backend](https://github.com/USERNAME/project-api) – REST API dengan Laravel  
+- 🛒 [Project E-Commerce](https://github.com/USERNAME/project-store) – Web store dengan Next.js  
 
 ---
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
-## 🚀 Sekarang
-- Membangun: <i>Nama fitur / project</i>
-- Tujuan: menguasai arsitektur app skala besar & best practices CI/CD
+## 🌀 Animasi Seru
+<p align="center">
+  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 ---
 
-## 🔗 Quick links
-- Portfolio / CV: https://your-portfolio.example
-- TikTok: https://www.tiktok.com/@yhon.dev
-- Instagram: https://www.instagram.com/yourhandle
-- Email: email@domain.com
+## ✨ Sekarang
+💡 Sedang mengerjakan: **Aplikasi koperasi modern**  
+📌 Next Goal: belajar **CI/CD & Cloud Deployment**  
+🤝 Ayo kolaborasi kalau kamu punya project seru!  
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/master/profile-hero.png" width="800" alt="hero-banner"/>
-  <p><sub>Design inspired by TikTok profile visuals — gunakan hero banner sederhana dengan teks besar & kontras.</sub></p>
-</div>
+<h3 align="center">Terima kasih sudah mampir 🙏</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+</p>
