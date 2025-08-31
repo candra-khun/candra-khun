@@ -37,24 +37,16 @@ Platform web koperasi dengan fitur simpan pinjam, riwayat transaksi, dan dashboa
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=candra-khun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=candra-khun&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=candra-khun&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Animasi Kontribusi
-<p align="center">
-<img src="https://github.com/candra-khun/candra-khun/blob/output/snake.svg" alt="snake animation"/>
-
-
-</p>
-
----
 
 ## 🌐 Sosial Media
 <p align="center">
