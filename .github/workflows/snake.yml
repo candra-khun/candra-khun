@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # generate tiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: USERNAME
+          github_user_name: candra-khun
           outputs: dist/snake.svg
 
       - name: Push to output branch
