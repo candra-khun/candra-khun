@@ -63,8 +63,8 @@
       <br>Android Studio
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git Icon" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java Icon" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub Icon" />
