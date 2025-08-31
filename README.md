@@ -1,40 +1,87 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<!--
+README ini didesain untuk tampilan profil GitHub.
+Ganti: NAMA, JOB_TITLE, SHORT_DESC, lokasi, gambar, dan link sesuai profilmu.
+-->
+
+<h1 align="center">Hi 👋, saya <b>Candra Tri Kuncoro</b></h1>
+<p align="center">
+  <i>JOB_TITLE • Passionate about building clean & modern apps • Open to collaboration</i>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D9488&width=650&lines=Hello!+Welcome+to+my+GitHub.;I+build+Android+apps,+Web+APIs,+and+automation+tools.;Let's+build+something+cool+together!" alt="typing">
 </p>
 
-- 🔭 I’m currently working on **[Your Project Name]**
-
-- 🌱 I’m currently learning **[Technology or Framework]**
-
-- 👯 I’m looking to collaborate on **[Open Source or Freelance Projects]**
-
-- 🤝 I’m looking for help with **[Something you're exploring]**
-
-- 💬 Ask me about **Java, Swift, GitHub, macOS**
-
-- 📫 How to reach me **your.email@example.com**
-
-- ⚡ Fun fact **I love building cute and functional UIs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/yourinstagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yourinstagram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.tiktok.com/@yhon.dev" target="_blank" rel="noopener">🎵 TikTok</a> ·
+  <a href="https://www.instagram.com/" target="_blank" rel="noopener">📸 Instagram</a> ·
+  <a href="https://www.linkedin.com/" target="_blank" rel="noopener">💼 LinkedIn</a> ·
+  <a href="mailto:email@domain.com">✉️ Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+---
+
+## Tentang saya
+- 🔭 Saat ini: <b>JOB_TITLE</b>
+- 🌱 Sedang belajar: Advanced Kotlin & Modern Android Architecture
+- 👯 Terbuka untuk: kolaborasi proyek mobile & backend
+- 💬 Tanya tentang: Android, PHP (Laravel/CodeIgniter), Next.js, REST API
+- ⚡ Hobi: ngulik UI/UX, bikin mini tools, ngopi
+
+---
+
+## 🔧 Tech stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
+## ⚒️ Project unggulan
+### [Nama Project 1](https://github.com/username/project-1)  
+Ringkasan singkat — fitur utama, tech stack, dan link demo (jika ada).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" /></p>
+### [Nama Project 2](https://github.com/username/project-2)  
+Ringkasan singkat — kenapa project ini menarik, dan apa kontribusimu.
+
+### [Nama Project 3](https://github.com/username/project-3)  
+Ringkasan singkat — tugas utama, hasil, dan teknologi.
+
+> Tips: jadikan 3 project yang menunjukkan variasi (mobile, backend API, tooling/script). Sertakan badge `⭐` atau GIF kecil di repo README tiap project untuk menarik perhatian.
+
+---
+
+## 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Sekarang
+- Membangun: <i>Nama fitur / project</i>
+- Tujuan: menguasai arsitektur app skala besar & best practices CI/CD
+
+---
+
+## 🔗 Quick links
+- Portfolio / CV: https://your-portfolio.example
+- TikTok: https://www.tiktok.com/@yhon.dev
+- Instagram: https://www.instagram.com/yourhandle
+- Email: email@domain.com
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/master/profile-hero.png" width="800" alt="hero-banner"/>
+  <p><sub>Design inspired by TikTok profile visuals — gunakan hero banner sederhana dengan teks besar & kontras.</sub></p>
+</div>
