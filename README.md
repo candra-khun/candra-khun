@@ -34,9 +34,3 @@ Mobile & Web Developer | Laravel · CodeIgniter · MySQL · Android Studio
 | [🎨 Batik Nusantara](https://github.com/candra-khun/Batik-Nusantara) | Mobile app to promote Indonesian batik with modern UI |
 | [🌐 Koperasi Web](https://github.com/candra-khun/Koperasi) | Cooperative management web platform with transaction dashboard |
 
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=candra-khun&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=candra-khun&theme=default" alt="GitHub Streak" />
-</div>
