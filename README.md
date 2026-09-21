@@ -1,4 +1,4 @@
-# Hi, I'm Candra Tri Kuncoro 👋
+# Hi, I'm Candra Tri Kuncoro 
 
 Mobile & Web Developer | Laravel · CodeIgniter · MySQL · Android Studio
 
@@ -10,9 +10,9 @@ Mobile & Web Developer | Laravel · CodeIgniter · MySQL · Android Studio
 
 ## About Me
 
-- 💻 I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
-- 🌱 Currently improving my skills in modern frameworks and mobile app development
-- 🤝 Open to collaborations, freelance projects, and tech challenges
+- I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
+- Currently improving my skills in modern frameworks and mobile app development
+- Open to collaborations, freelance projects, and tech challenges
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ Mobile & Web Developer | Laravel · CodeIgniter · MySQL · Android Studio
 
 | Project | Description |
 |---|---|
-| [📱 Toko Hidup](https://github.com/candra-khun/Toko-Hidup) | E-commerce mobile app for bag sales with cart & checkout system |
-| [🎨 Batik Nusantara](https://github.com/candra-khun/Batik-Nusantara) | Mobile app to promote Indonesian batik with modern UI |
-| [🌐 Koperasi Web](https://github.com/candra-khun/Koperasi) | Cooperative management web platform with transaction dashboard |
+| [Toko Hidup](https://github.com/candra-khun/Toko-Hidup) | E-commerce mobile app for bag sales with cart & checkout system |
+| [Batik Nusantara](https://github.com/candra-khun/Batik-Nusantara) | Mobile app to promote Indonesian batik with modern UI |
+| [Koperasi Web](https://github.com/candra-khun/Koperasi) | Cooperative management web platform with transaction dashboard |
 
