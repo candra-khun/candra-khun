@@ -1,6 +1,6 @@
 # Hi, I'm Candra Tri Kuncoro 
 
-Mobile & Web Developer | Laravel · CodeIgniter · MySQL · Android Studio
+Mobile & Web Developer | Laravel · CodeIgniter · MySQL · React
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=candratrikuncoro3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candra-tri-kuncoro-634a2b2a7/)
@@ -10,7 +10,7 @@ Mobile & Web Developer | Laravel · CodeIgniter · MySQL · Android Studio
 
 ## About Me
 
-- I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **Android Studio**
+- I specialize in **PHP (Laravel & CodeIgniter)**, **MySQL**, and **React**
 - Currently improving my skills in modern frameworks and mobile app development
 - Open to collaborations, freelance projects, and tech challenges
 
